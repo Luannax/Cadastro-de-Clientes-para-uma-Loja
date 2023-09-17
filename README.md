@@ -32,4 +32,4 @@ Os dados dos clientes e suas compras são armazenados em um arquivo chamado "cad
 Este algoritmo foi desenvolvido para fornecer uma solução simples de cadastro de clientes e compras para uma loja. Sinta-se à vontade para usá-lo e adaptá-lo às suas necessidades específicas. Se tiver alguma dúvida ou sugestão de melhoria, por favor, entre em contato.
 
 <h4>Desenvolvido por:</h4>
-<a href='https://www.instagram.com/luannabahia_/?hl=pt-br'>Luanna</a> e <a href='https://www.instagram.com/elismararodrigues04/'>Elismara</a>
+<a href='https://www.instagram.com/luannabahia_/?hl=pt-br' target='blank'>Luanna</a> e <a href='https://www.instagram.com/elismararodrigues04/' target='blank'>Elismara</a>
