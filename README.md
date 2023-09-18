@@ -18,13 +18,14 @@ O usuário pode registrar compras para cada cliente, incluindo informações com
 Para usar este algoritmo, siga as seguintes etapas:
 Execute o programa Python em um ambiente adequado como o vscode.
 Escolha uma das opções do menu principal:
-1 - Cadastrar cliente: Para cadastrar um novo cliente com informações detalhadas.
-2 - Remover: Para remover um cliente com base no CPF.
-3 - Visualizar cadastro: Para visualizar o cadastro de clientes e suas compras.
-0 - Finalizar Programa: Para encerrar o programa e salvar os dados no arquivo "cadastro.json".
-Siga as instruções para cada opção do menu e insira as informações necessárias.
-O programa permite que você adicione quantas compras desejar para cada cliente, dando flexibilidade para registrar as informações de acordo com o seu cenário.
-Certifique-se de selecionar a opção "0" no menu principal para salvar todos os dados antes de encerrar o programa.
+<br>
+1 - Cadastrar cliente: Para cadastrar um novo cliente com informações detalhadas.<br>
+2 - Remover: Para remover um cliente com base no CPF.<br>
+3 - Visualizar cadastro: Para visualizar o cadastro de clientes e suas compras.<br>
+0 - Finalizar Programa: Para encerrar o programa e salvar os dados no arquivo "cadastro.json".<br>
+Siga as instruções para cada opção do menu e insira as informações necessárias.<br>
+O programa permite que você adicione quantas compras desejar para cada cliente, dando flexibilidade para registrar as informações de acordo com o seu cenário.<br>
+Certifique-se de selecionar a opção "0" no menu principal para salvar todos os dados antes de encerrar o programa.<br>
 
 <h2>Arquivo de Dados</h2>
 Os dados dos clientes e suas compras são armazenados em um arquivo chamado "cadastro.json". Este arquivo é utilizado para manter os dados entre as execuções do programa, garantindo que as informações sejam preservadas.
